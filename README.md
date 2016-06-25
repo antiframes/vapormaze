@@ -34,9 +34,6 @@ LUCRO!!! (na verdade não, isso é código aberto)
 
 ## Direitos
 
-* Jogo: Giovani de Quadros ([email])
-* Voz: Sérgio Mallandro (permissão pode ser coferida [aqui])
+* Jogo: Giovani de Quadros (<mailto:gdqrodrigues@inf.ufpel.edu.br>)
+* Voz: Sérgio Mallandro (permissão pode ser coferida em <https://twitter.com/MallandroSergio/status/746321864167927808>)
 * Música: Macintosh Plus (ela kibou de uma música da Diana Ross e todo mundo faz meme disso, memes são patrimônio público)
-
-	[email]: <mailto:gdqrodrigues@inf.ufpel.edu.br>
-	[aqui]: <https://twitter.com/MallandroSergio/status/746321864167927808>
