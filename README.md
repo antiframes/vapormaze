@@ -1,6 +1,7 @@
 # Vapormaze do Mallandro
 
 Trabalho de Computação Gráfica inspirado no clássico protetor de tela do Windows 95.
+Screencast disponível em <https://vid.me/iVXc>
 
 ## Sinopse
 Você foi sugado para uma dimensão paralela e agora está preso em um labirinto no país do Vaporwave, onde todas as partículas do universo formaram um vaporwave vaporwavístico. Você precisa voltar à realidade encontrando o famigerado Macaco Dourado, guardião do portal Magical Mystery Tour multidimensional.
